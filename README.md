@@ -3,6 +3,7 @@ We propose a multi-omics clustering model called SACR-DCA for cancer subtype ide
 
 
 #Model
+-----
 <img width="2100" height="906" alt="total" src="https://github.com/user-attachments/assets/af683d61-3c6b-4f8d-b616-17efe1cb5cde" />
 
 
