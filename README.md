@@ -1,8 +1,10 @@
-# SACR-DCA
+# Structure-Aware Consensus Representation Learning with Dual-Channel Attention for Multi-Omics Cancer Subtype Clustering
+SACR-DCA
+------
 We propose a multi-omics clustering model called SACR-DCA for cancer subtype identification, which utilizes a dual-channel encoder, self-attention mechanism, and multiple loss functions for joint optimization, ultimately achieving superior clustering performance.
 
 
-#Model
+Model
 -----
 <img width="2100" height="906" alt="total" src="https://github.com/user-attachments/assets/af683d61-3c6b-4f8d-b616-17efe1cb5cde" />
 
@@ -11,6 +13,7 @@ SACR-DCA is based on the Python program language. The network's implementation w
 We recommend using PyCharm or VS Code as the development environment for running the code.
 
 
-#Datasets
+Datasets
+------
 The genomics datasets used in this study are available at: https://github.com/haiyang1986/Subtype-GAN.
 And the protein expression datasets used in this study was uploaded.
