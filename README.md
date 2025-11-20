@@ -6,8 +6,8 @@ We propose a multi-omics clustering model called SACR-DCA for cancer subtype ide
 <img width="2100" height="906" alt="total" src="https://github.com/user-attachments/assets/af683d61-3c6b-4f8d-b616-17efe1cb5cde" />
 
 
-#Quick start
-SACR-DCA is based on the Python program language. The network's implementation was based on the open-source library Pytorch 1.12.1+cu113. We used the NVIDIA GeForce RTX 3090 GPU for the model training. We recommend using PyCharm or VS Code as the development environment for running the code.
+SACR-DCA is based on the Python program language. The network's implementation was based on the open-source library Pytorch 1.12.1+cu113. We used the NVIDIA GeForce RTX 3090 GPU for the model training. 
+We recommend using PyCharm or VS Code as the development environment for running the code.
 
 
 #Datasets
